@@ -4,7 +4,7 @@ body {
     padding: 0;
     height: 100vh;
     background: url('logo.png') no-repeat center center;
-    background-size: 91.5%;  /* Adjust size as needed */
+    background-size: 72.5%;  /* Adjust size as needed */
     background-attachment: fixed;
     background-color: #f3f3f3;  /* Fallback background color */
     position: relative;  /* For proper absolute positioning */
@@ -15,7 +15,7 @@ body {
   
   /* Container to hold the button */
   .container {
-    margin-bottom: 4%;  /* Adjust to control distance from logo */
+    margin-bottom: 3%;  /* Adjust to control distance from logo */
     text-align: center;
     z-index: 1;  /* Ensure it stays above the background */
   }
