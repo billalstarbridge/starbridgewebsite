@@ -331,7 +331,7 @@ body::after,
   margin-bottom: 0.25rem;
 }
 .logo {
-  width: 450px;
+  width: 375px;
   max-width: 70vw;
   /* filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.4)); */
 }

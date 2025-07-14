@@ -4,7 +4,7 @@ const Hero = ({ onContactClick }) => {
   return (
     <div className="container">
       <div className="logo-section">
-        <img src="/Starbridge-logo.png" alt="Company Logo" className="logo" />
+        <img src="/images/Starbridge-logo.png" alt="Company Logo" className="logo" />
       </div>
 
       <h1 className="hero-title">Starbridge Global Partners</h1>
